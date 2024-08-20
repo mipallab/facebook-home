@@ -1,5 +1,4 @@
 # Facebook Home
 ## _ Home page done
 
-
-![Facebook Home Page!](/assets/images/facebook home.png "")
+<img src="/assets/images/facebook home.png" alt="Facebook Home Page>
