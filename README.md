@@ -1,4 +1,5 @@
 # Facebook Home
-## Home page done
 
-<img src="./assets/images/facebook home.png" alt="Facebook Home Page>
+![Home Page](https://pallab.mipallab.com/facebookhome.png "FB Home page")
+
+[Home Page]( https://pallab.mipallab.com/facebookhome.png ).
